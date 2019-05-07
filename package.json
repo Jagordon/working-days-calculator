@@ -1,0 +1,15 @@
+{
+  "name": "working-days-calculator",
+  "version": "1.0.0",
+  "description": "Given two dates and a country in the UK, work out the working days between them",
+  "main": "src/working-days-calculator.js",
+  "files": [
+    "src/**/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
